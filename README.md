@@ -10,7 +10,7 @@ Reposositorio para armazenamento resumo sobre Git e GitHub do Curso Versionament
 ##💻Resumos da Aulas 
 |Aulas | Resumos|
 |-------|--------|
-|Gravado Alterações de Reposositorio Local|[Resumos]
+|Gravado Alterações de Reposositorio Local|[Resumo]
 ()
 ```
 git init
