@@ -13,6 +13,7 @@ Reposositorio para armazenamento resumo sobre Git e GitHub do Curso Versionament
 |Gravado Alterações de Reposositorio Local|[Resumo]
 ()
 ```
+Auteração
 git init
 ```
 ## 🔎Referências
